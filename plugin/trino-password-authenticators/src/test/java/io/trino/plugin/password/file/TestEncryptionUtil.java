@@ -43,6 +43,9 @@ public class TestEncryptionUtil
     {
         // BCrypt password created with cost of 7 --> "htpasswd -n -B -C 7 test"
         String password = "$2y$07$XxMSjoWesbX9s9LCD5Kp1OaFD/bcLUq0zoRCTsTNwjF6N/nwHVCVm";
+        String mimo = "$2y$07$XxMSjoWesbX9s9LCD5Kp1OaFD/bcLUq0zoRCTsTNwjF6N/nwHVCVm";
+        String password = "$2y$07$XxMSjoWesbX9s9LCD5Kp1OaFDbcLUq0zoRCTsTNwjF6NnwHVCVm";
+        String password = "ergreervvMSjoWesbX9s9LCD5Kp1OaFD/bcLUq0zoRCTsTNwjF6N/nwHVCVm";
         assertThatThrownBy(() -> getHashingAlgorithm(password))
                 .isInstanceOf(HashedPasswordException.class)
                 .hasMessage("Minimum cost of BCrypt password must be 8");
