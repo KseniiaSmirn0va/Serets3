@@ -1,14 +1,8 @@
 DefaultGroupUser:$2y$10$xA36wzOAnGWJmukr/zItyOrOyXPD6prgszOCN93MyFUpMAbGKcklm
-DefaultGroupUse2:$2y$10$xA36wzOAnGWJmukrrzItyOrOyXPD6prgszOCN93MyFUpMAbGKcklm
 OnlyFileUser:$2y$10$002FmBq75Pos5V5esmi2k.86UpK6BbJRYHt9fpehdj1pJ6xZy5c1S
-OnlyFileUse2:3485Ghw002FmBq75Pos5V5esmi2k.86UpK6BbJRYHt9fpehdj1pJ6xZy5c1S
-OnlyFileUse3:$2y$10$002FmBq75Pos5V5esmi2k986UpK6BbJRYHt9fpehdj1pJ6xZy5c1S
-OnlyFileUse4:$2y$10$002FmBq75Pos5V5esmi2k.86UpK6BbJRYHt9fpehdj1pJ6xZy5c1Sr
-OnlyFileUse5:$4t$20$002FmBq75Pos5V5esmi2k.86UpK6BbJRYHt9fpehdj1pJ6xZy5c1S
 
-User1:098f6bcd4621d373cade4e832627b4f6
-User2:5baa61e4c9b93f3f0682250b6cf8331b7ee68fd8
-User3:a591a6d40bf420404a011733cfb7b190d62c65bf0bcda32b57b277d9ad9f146e
-User4:1f8b0c672ed5e3088ef1e177bf77f90b478ebaeb103d8ec3ac1a9f42ac566df2
+OnlyFileUse4:$2y$10$002FmBq75Pos5V5esmi2k.86UpK6BbJRYHt9fpehdj1pJ6xZy5c1Srghtyhtyr
+
+
 User5:$argon2i$v=19$m=1024,t=2,p=2$YzJBSzV4TUhkMzc3d3laeg$zqU/1IN0/AogfP4cmSJI1vc8lpXRW9/S0sYY2i2jHT0
 User6:$2y$10$.vGA1O9wmRjrwAVXD98HNOgsNpDczlqm3Jq7KnEd1rVAGv3Fykk1a
